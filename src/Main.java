@@ -19,6 +19,7 @@ public class Main {
         System.out.println(cat.getName());
         System.out.println(cat.getAge());
         System.out.println(cat.getWeight());
+     System.out.println("______________________________________");
 
     }
 }
